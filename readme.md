@@ -1,7 +1,9 @@
 ![TypeScript Esri Accelebrate Logos](WoltersKluwerLogoBanner1000x200.png)
 
 > # **Wolters Kluwer Lien Solutions<br/>ASP.NET Core 2.0 Development with Docker**
-> ## **Dates: February 26th - March 1st, 2018<br/>Instructor: Jeff McBride<br/>Instructor E-Mail: jeff@geeklearn.com**
+> ## **Dates: February 26th - March 1st, 2018**
+> ## **Instructor: Jeff McBride**
+> ## **Instructor E-Mail: jeff@geeklearn.com**
 
 ## **Course Overview**
 ASP.NET Core 2.0 is the latest release of Microsoft’s cross-platform version of its ASP.NET
